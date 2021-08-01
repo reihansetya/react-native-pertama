@@ -69,7 +69,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="HI MNIEZ">
-            <Text style={styles.highlight}>bagi kesbapnya dong</Text>
+            <Text style={styles.highlight}>bagi kebapnya dong</Text>
           </Section>
         </View>
       </ScrollView>
